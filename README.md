@@ -28,6 +28,7 @@ priyanka = {
 
 - 🔭 Building a **counterfactual explainer for PyTorch Geometric** and explainability for **NVIDIA's GNN fraud-detection blueprint**
 - 🌱 Working on: knowledge-graph → LLM distillation, temporal & signed networks, brain-network measures for continual learning
+- 📘 Doing **[30 Days of ML Foundations](https://github.com/Priyankagautam08/ml-from-scratch)**: every core ML algorithm from scratch, in public
 - 👯 Open to collaborating on **graph learning, explainable AI and causal ML**
 - 💬 Ask me about: GNNs at scale, counterfactual explanations, influence maximization, explainable credit/fraud models
 
@@ -125,6 +126,7 @@ flowchart LR
 
 | Project | Highlights | Stack |
 |---|---|---|
+| 📘 [**30 Days of ML Foundations**](https://github.com/Priyankagautam08/ml-from-scratch) · ongoing | 11 core algorithms + attention from scratch in NumPy: math guides, scikit-learn comparison tests, timed interview drills, a 30-day roadmap | NumPy, scikit-learn, pytest |
 | 🌐 [**Dynamic Influence Maximization**](https://github.com/Priyankagautam08/DynamicGraphInfluenceMaximization-AAAI2025) · AAAI-25 workshop | GNN-BiLSTM that tracks influential nodes in evolving networks without recomputing from scratch | PyTorch Geometric, NetworkX |
 | 💳 [**Credit risk with explainability**](https://github.com/Priyankagautam08/credit-risk-xai-llm) | XGBoost + SHAP + LLM reason codes (faithfulness-checked), cost-based thresholds, age-group fairness check · ROC-AUC 0.869 | XGBoost, SHAP, LLMs |
 | 🕵️ [**GNN fraud detection: CPU fallback**](https://github.com/Priyankagautam08/financial-fraud-detection/tree/cpu-fallback) · contribution to NVIDIA's blueprint | Made the TabFormer graph pipeline run without a GPU ([issue #22](https://github.com/NVIDIA-AI-Blueprints/financial-fraud-detection/issues/22)) | Python, pandas, cuDF |
